@@ -1,0 +1,187 @@
+.el-tabs__nav-scroll {
+    overflow: hidden !important;
+    position: relative !important;
+    left: -21px !important;
+    color: blue !important;
+    width: 34% !important;
+    font-size: 12px !important;
+    float: right !important;
+}
+.el-date-editor--datetimerange.el-input, .el-date-editor--datetimerange.el-input__inner {
+    width: 180% !important;
+  
+}
+.ditu{
+    position: relative;
+    top: -0em !important;
+    left: -0em !important;
+}
+
+
+.el-table--enable-row-transition .el-table__body td {
+    transition: background-color .25s ease !important;
+    height: 54px !important;
+}
+.touxiang{
+    height: -20% !important;
+    width: 20% !important;
+
+}
+.denglutubiao .el-avatar--icon{
+    font-size: 1.8em !important;
+    height: 1.6em !important;
+
+
+}
+
+
+.el-input-group__prepend {
+    border-right: 0 !important;
+    border: none !important;
+    background-color: white !important;
+    border-bottom: 1px #f5f5f5 solid !important;  
+}
+.yijiao{
+    line-height: 0px !important;
+    color: black !important;
+    display: inline-block !important;
+    font-size: 11px !important;
+
+}
+.serachinput{
+    position: relative;
+    top: 10px !important;
+    left: 20px;
+    height: 30px;
+    border-radius: 5px;
+}
+.chenav{
+    width: 100% !important;
+}
+.tubiao{
+    position: relative !important;
+    top: -1.1em !important;
+}
+.bm-view{
+    position: relative !important;
+    top: 100px;
+    left: 100px;
+    width: 1240px !important;
+}
+.el-collapse-item__header {
+    width: 90% !important;
+    margin: 0 auto  !important;
+}
+.el-radio-button__orig-radio:checked+.el-radio-button__inner {
+    color: #FFF !important;
+    background-color: #409EFF !important;
+    border-color: #409EFF !important;
+    box-shadow: -1px 0 0 0 #409EFF !important;
+    height: 20px !important;
+    line-height: 0px  ;
+}
+.xianshi{
+    height: 40px !important;
+    color: blue !important;
+}
+.el-radio-button__inner, .el-radio-group {
+    display: inline-block;
+    line-height: 0 !important;
+    vertical-align: middle;
+    height: 10px;
+    margin-top: 6px;
+}
+.el-tabs__nav-wrap{
+    height: 80px;
+}
+.el-tabs__item.is-active {
+    color: #409EFF;
+    margin: 30px 0px 0px 0px;
+}
+.el-tabs__nav-scroll {
+    overflow: hidden !important;
+    position: relative !important;
+    left: -155px !important;
+    color: blue !important;
+    width: 34% !important;
+    font-size: 12px !important;
+    float: right !important;
+}
+
+.el-icon-arrow-right:before {
+    content: "\e6e0";
+
+    position: relative !important;
+    left: 21px !important;
+}
+.el-input-group {
+    line-height: normal;
+    display: inline-table;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 25px 0px 0px 20px !important;
+}
+.el-input input{
+    height: 30px !important;
+    width: 80%;
+    border:none;
+    border-bottom: 1px #f5f5f5 solid;
+    
+}
+
+.el-tabs__nav-scroll {
+    overflow: hidden !important;
+    position: relative !important;
+    left: -21px !important;
+    color: blue !important;
+    width: 34% !important;
+    font-size: 12px !important;
+    float: right !important;
+}
+.el-tree-node__content {
+    display: flex;
+    align-items: center;
+    height: 26px;
+    border-bottom: 1px #f8fbfb solid !important;
+    cursor: pointer;
+    height: 40px !important;
+}
+.biaogeyidong{
+    position: relative !important;
+    left: 120px !important;
+    top: 2400px !important;
+}
+
+.img48{
+    width: 20px;
+    height: 20px;
+    background-color: white !important;
+    border: 1px white solid !important;
+}
+/* .suoding{
+    width: 60px !important;
+    height: 25px !important;
+    position: relative;
+    top: 10px;
+    line-height: 25px !important;
+} */
+.img49{
+    width: 20px;
+    height: 20px;
+    background-color: white !important;
+    border: 1px white solid !important;
+}
+
+.img48 img{
+   position: relative !important;
+   top: -1px !important;
+   left: -15px !important;
+}
+.el-upload--picture-card {
+    
+    width: 148px !important;
+    height: 101px !important;
+    line-height: 146px;
+    vertical-align: top;
+}
